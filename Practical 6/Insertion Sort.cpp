@@ -46,5 +46,4 @@ int main()
 	printArray(arr, N);
 
 	return 0;
-}
-// This is code is contributed by rathbhupendra
+}
